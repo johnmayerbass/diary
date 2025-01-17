@@ -20,7 +20,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "애송이의 다이어리",
-    description: "welcome!!",
+    description: "welcome!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
